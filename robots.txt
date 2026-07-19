@@ -7,10 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: Yeti
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-Sitemap: https://ishikyujin.space/sitemap.xml
+Sitemap: https://ishikyujin-web-marketing.namanavi.com/sitemap.xml
